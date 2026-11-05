@@ -33,5 +33,5 @@ Sugestões, dúvidas e relatos de problemas: [contatoeguatex@gmail.com](mailto:c
 <br>
 
 <p align="center">
-  <sub>Feito no Pará por José Paulo de Almeida Junior e <a href="https://github.com/jessicamelo0532">Jéssica Melo</a>.</sub>
+  <sub>Feito no Pará por <a href="https://github.com/jessicamelo0532">Jéssica Melo</a> e José Paulo de Almeida Junior.</sub>
 </p>
