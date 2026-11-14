@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://egua-tex.github.io/">
-    <img src="capa.jpg" alt="ÉguaTex, editor LaTeX feito no Pará. Gratuito, funciona sem internet e em português. Ao lado, a logo do curupira de pele verde e cabelo em chamas." width="100%">
+    <img src="capa.jpg" alt="ÉguaTex: Escreva LaTeX de qualquer lugar, mesmo sem internet. Ao lado, a logo do curupira de perfil, com cabelo em chamas e colar de folhas." width="100%">
   </a>
 </p>
 
@@ -18,13 +18,23 @@
 
 ## Sobre
 
-O ÉguaTex é um programa que escreve e compila documentos em LaTeX, como TCC, artigos e relatórios, mostrando o PDF ao lado do texto. O compilador já vem junto no instalador, então não é preciso instalar o LaTeX à parte nem estar conectado à internet para trabalhar.
+O ÉguaTex é um editor de LaTeX gratuito para escrever TCC, artigos e relatórios, com o PDF ao lado do texto. O LaTeX já vem junto, então não é preciso instalar nada à parte nem estar conectado à internet para trabalhar.
 
-A ideia é simples: escrever LaTeX de qualquer canto da Amazônia, mesmo sem internet.
+A ideia é simples: escrever LaTeX de qualquer lugar, mesmo sem internet.
+
+## Onde funciona
+
+| Sistema | Requisito |
+| --- | --- |
+| Windows | Windows 10 ou 11, 64 bits |
+| Android | Android 8.0 ou mais novo |
+| Linux | em breve |
+
+Os instaladores ficam na seção [Baixar](https://egua-tex.github.io/#baixar) do site, e o passo a passo de cada sistema está em [Como instalar](https://egua-tex.github.io/instalar.html).
 
 ## Por que um curupira?
 
-Na lenda, o curupira protege a floresta. Tem o cabelo de fogo e os pés virados para trás, e quem tenta seguir as pegadas dele acaba andando na direção errada. O ÉguaTex pegou emprestada essa teimosia: o texto científico cabe no computador de casa e funciona sem internet na beira do rio e no ônibus para a UFPA.
+Na lenda, o curupira protege a floresta. Tem o cabelo de fogo e os pés virados para trás, e quem tenta seguir as pegadas dele acaba andando na direção errada. O ÉguaTex pegou emprestada essa teimosia: o texto científico cabe no computador de casa e no celular, e funciona sem internet na beira do rio e no ônibus para a UFPA.
 
 E o nome? "Égua" é como a gente diz que algo é bom demais por aqui. Égua, que fórmula bonita.
 
@@ -35,5 +45,5 @@ Sugestões, dúvidas e relatos de problemas: [contatoeguatex@gmail.com](mailto:c
 <br>
 
 <p align="center">
-  <sub>Feito no Pará por <a href="https://github.com/jessicamelo0532">Jéssica Melo</a> e José Paulo de Almeida Junior.</sub>
+  <sub>Feito na Amazônia por <a href="https://github.com/jessicamelo0532">Jéssica Lopes Melo</a> e José Paulo de Almeida Junior.</sub>
 </p>
